@@ -1,0 +1,6 @@
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/WarmUp/bin/Debug/WarmUp.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/WarmUp/bin/Debug/WarmUp.pdb
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/WarmUp/obj/anycpu/Debug/WarmUp.csproj.CoreCompileInputs.cache
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/WarmUp/obj/anycpu/Debug/WarmUp.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/WarmUp/obj/anycpu/Debug/WarmUp.pdb
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/WarmUp/obj/anycpu/Debug/WarmUp.csprojAssemblyReference.cache

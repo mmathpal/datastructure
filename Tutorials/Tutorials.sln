@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure\DataStructure.csproj", "{23C57AB2-98AA-4CE7-A1FB-5D95DC24A3A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreading", "MultiThreading\MultiThreading.csproj", "{F6D7ACFA-B1B8-469F-AE7F-1BB5AF7C8CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicalConcepts", "LogicalConcepts\LogicalConcepts.csproj", "{D5F5D3ED-99EF-4EB2-A456-F591E6F4F6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmUp", "WarmUp\WarmUp.csproj", "{81450DFA-6621-4E3B-A7A5-A0669382D5AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgos", "SortingAlgos\SortingAlgos.csproj", "{6CD550E5-BFCE-4E04-817C-403DF4CD51FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchingAlgos", "SearchingAlgos\SearchingAlgos.csproj", "{35506230-DA7D-4CE8-8CAE-38FEA80FDFD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C57AB2-98AA-4CE7-A1FB-5D95DC24A3A9}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{23C57AB2-98AA-4CE7-A1FB-5D95DC24A3A9}.Debug|anycpu.Build.0 = Debug|anycpu
+		{23C57AB2-98AA-4CE7-A1FB-5D95DC24A3A9}.Release|anycpu.ActiveCfg = Release|anycpu
+		{23C57AB2-98AA-4CE7-A1FB-5D95DC24A3A9}.Release|anycpu.Build.0 = Release|anycpu
+		{F6D7ACFA-B1B8-469F-AE7F-1BB5AF7C8CF1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F6D7ACFA-B1B8-469F-AE7F-1BB5AF7C8CF1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F6D7ACFA-B1B8-469F-AE7F-1BB5AF7C8CF1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F6D7ACFA-B1B8-469F-AE7F-1BB5AF7C8CF1}.Release|anycpu.Build.0 = Release|anycpu
+		{D5F5D3ED-99EF-4EB2-A456-F591E6F4F6FC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D5F5D3ED-99EF-4EB2-A456-F591E6F4F6FC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D5F5D3ED-99EF-4EB2-A456-F591E6F4F6FC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D5F5D3ED-99EF-4EB2-A456-F591E6F4F6FC}.Release|anycpu.Build.0 = Release|anycpu
+		{81450DFA-6621-4E3B-A7A5-A0669382D5AB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{81450DFA-6621-4E3B-A7A5-A0669382D5AB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{81450DFA-6621-4E3B-A7A5-A0669382D5AB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{81450DFA-6621-4E3B-A7A5-A0669382D5AB}.Release|anycpu.Build.0 = Release|anycpu
+		{6CD550E5-BFCE-4E04-817C-403DF4CD51FB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6CD550E5-BFCE-4E04-817C-403DF4CD51FB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6CD550E5-BFCE-4E04-817C-403DF4CD51FB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6CD550E5-BFCE-4E04-817C-403DF4CD51FB}.Release|anycpu.Build.0 = Release|anycpu
+		{35506230-DA7D-4CE8-8CAE-38FEA80FDFD8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{35506230-DA7D-4CE8-8CAE-38FEA80FDFD8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{35506230-DA7D-4CE8-8CAE-38FEA80FDFD8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{35506230-DA7D-4CE8-8CAE-38FEA80FDFD8}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {824E6469-AAB4-4D1C-B7CE-F86BF2A496E7}
+	EndGlobalSection
+EndGlobal

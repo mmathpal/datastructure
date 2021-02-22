@@ -1,0 +1,5 @@
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/SearchingAlgos/bin/Debug/SearchingAlgos.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/SearchingAlgos/bin/Debug/SearchingAlgos.pdb
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/SearchingAlgos/obj/anycpu/Debug/SearchingAlgos.csproj.CoreCompileInputs.cache
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/SearchingAlgos/obj/anycpu/Debug/SearchingAlgos.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/SearchingAlgos/obj/anycpu/Debug/SearchingAlgos.pdb

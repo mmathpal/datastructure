@@ -1,0 +1,6 @@
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/DataStructure/bin/Debug/DataStructure.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/DataStructure/bin/Debug/DataStructure.pdb
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/DataStructure/obj/anycpu/Debug/DataStructure.csprojAssemblyReference.cache
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/DataStructure/obj/anycpu/Debug/DataStructure.csproj.CoreCompileInputs.cache
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/DataStructure/obj/anycpu/Debug/DataStructure.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/DataStructure/obj/anycpu/Debug/DataStructure.pdb

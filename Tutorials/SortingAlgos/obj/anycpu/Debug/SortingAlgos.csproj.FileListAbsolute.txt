@@ -1,0 +1,6 @@
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/SortingAlgos/obj/anycpu/Debug/SortingAlgos.csprojAssemblyReference.cache
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/SortingAlgos/obj/anycpu/Debug/SortingAlgos.csproj.CoreCompileInputs.cache
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/SortingAlgos/bin/Debug/SortingAlgos.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/SortingAlgos/bin/Debug/SortingAlgos.pdb
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/SortingAlgos/obj/anycpu/Debug/SortingAlgos.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/SortingAlgos/obj/anycpu/Debug/SortingAlgos.pdb

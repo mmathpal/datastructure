@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
+    <ProjectGuid>{D5F5D3ED-99EF-4EB2-A456-F591E6F4F6FC}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>LogicalConcepts</RootNamespace>
+    <AssemblyName>LogicalConcepts</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <IntermediateOutputPath>obj\anycpu\Debug</IntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|anycpu' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <IntermediateOutputPath>obj\anycpu\Release</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FibonacciSeries.cs" />
+    <Compile Include="FibonacciSeriesForThreeNumbers.cs" />
+    <Compile Include="FirstNonRepeatingCharInString.cs" />
+    <Compile Include="HCF.cs" />
+    <Compile Include="LargestAverageGrade.cs" />
+    <Compile Include="LongestUniformSubstring.cs" />
+    <Compile Include="MaximumConsecutiveRepeatingChar.cs" />
+    <Compile Include="Palindrome.cs" />
+    <Compile Include="ReverseString.cs" />
+    <Compile Include="SecondSmallestInArray.cs" />
+    <Compile Include="ArrayLeftRotation.cs" />
+    <Compile Include="ReverseInteger.cs" />
+    <Compile Include="ValidParentheses.cs" />
+    <Compile Include="Test.cs" />
+    <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LogicalConcepts.csproj" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

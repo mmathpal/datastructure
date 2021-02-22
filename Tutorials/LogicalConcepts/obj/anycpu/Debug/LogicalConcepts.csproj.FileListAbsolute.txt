@@ -1,0 +1,6 @@
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/LogicalConcepts/bin/Debug/LogicalConcepts.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/LogicalConcepts/bin/Debug/LogicalConcepts.pdb
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/LogicalConcepts/obj/anycpu/Debug/LogicalConcepts.csproj.CoreCompileInputs.cache
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/LogicalConcepts/obj/anycpu/Debug/LogicalConcepts.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/LogicalConcepts/obj/anycpu/Debug/LogicalConcepts.pdb
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/LogicalConcepts/obj/anycpu/Debug/LogicalConcepts.csprojAssemblyReference.cache

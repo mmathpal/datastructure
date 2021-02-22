@@ -1,0 +1,5 @@
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/MultiThreading/bin/Debug/MultiThreading.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/MultiThreading/bin/Debug/MultiThreading.pdb
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/MultiThreading/obj/anycpu/Debug/MultiThreading.csproj.CoreCompileInputs.cache
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/MultiThreading/obj/anycpu/Debug/MultiThreading.exe
+/Users/mmathpal/MyStuff/SampleApps/DotNet/Tutorials/MultiThreading/obj/anycpu/Debug/MultiThreading.pdb

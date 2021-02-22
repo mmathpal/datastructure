@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
+    <ProjectGuid>{23C57AB2-98AA-4CE7-A1FB-5D95DC24A3A9}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>DataStructure</RootNamespace>
+    <AssemblyName>DataStructure</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <IntermediateOutputPath>obj\anycpu\Debug</IntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|anycpu' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <IntermediateOutputPath>obj\anycpu\Release</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="LinkedListImpl\DoublyLinkedList.cs" />
+    <Compile Include="LinkedListImpl\DoublyLinkedListNode.cs" />
+    <Compile Include="LinkedListImpl\SinglyLinkedList.cs" />
+    <Compile Include="LinkedListImpl\SinglyLinkedListNode.cs" />
+    <Compile Include="QueueImpl\QueueUsingArray.cs" />
+    <Compile Include="QueueImpl\QueueUsingLL.cs" />
+    <Compile Include="StackImpl\StackUsingArray.cs" />
+    <Compile Include="StackImpl\StackUsingLL.cs" />
+    <Compile Include="TreeImpl\BSTNode.cs" />
+    <Compile Include="TreeImpl\BinarySearchTreeImpl.cs" />
+    <Compile Include="DynamicArrayImpl\DynamicArrayImpl.cs" />
+    <Compile Include="TreeImpl\BreadthFirstSearch.cs" />
+    <Compile Include="TreeImpl\DepthFirstSSearch.cs" />
+    <Compile Include="Graph\Graph_BFS_DFS.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="TreeImpl\" />
+    <Folder Include="DynamicArrayImpl\" />
+    <Folder Include="Graph\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
